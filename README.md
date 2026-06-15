@@ -2,6 +2,8 @@
 
 > Which came first — the compiler or the source code? This project might just answer that.
 
+[English](https://github.com/yzhe819/C-Compiler/blob/main/README.md) | [中文](https://github.com/yzhe819/C-Compiler/blob/main/wiki/README.md)
+
 A **self-hosting C subset compiler** written in C, inspired by [c4](https://github.com/rswier/c4). Small enough to compile itself. Complete enough to teach you everything about how a compiler turns characters into execution.
 
 ---

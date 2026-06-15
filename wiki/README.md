@@ -2,6 +2,8 @@
 
 > 先有编译器，还是先有源码？——这个项目或许能给你一个答案。
 
+[English](https://github.com/yzhe819/C-Compiler/blob/main/README.md) | [中文](https://github.com/yzhe819/C-Compiler/blob/main/wiki/README.md)
+
 这是一个用 C 语言写成的 **C 语言子集编译器**，灵感来源于 [c4](https://github.com/rswier/c4)。它足够小，可以编译自身；足够完整，足以让你理解一个编译器从字符到执行的全过程。
 
 ---
